@@ -3,9 +3,9 @@
     {
       "vm_name": "centos7",
       "guest_os_type": "RedHat_64",
-      "iso_checksum_type": "sha1",
-      "iso_checksum": "156f4cb711fdbd668943711f853fb6da89581aad",
-      "iso_url": "http://ftp.riken.jp/Linux/centos/7/isos/x86_64/CentOS-7-x86_64-NetInstall-1611.iso",
+      "iso_checksum_type": "sha256",
+      "iso_checksum": "6ffa7ad44e8716e4cd6a5c3a85ba5675a935fc0448c260f43b12311356ba85ad",
+      "iso_url": "http://ftp.riken.jp/Linux/centos/7/isos/x86_64/CentOS-7-x86_64-NetInstall-1908.iso",
       "type": "virtualbox-iso",
       "ssh_password": "vagrant",
       "ssh_username": "vagrant",
